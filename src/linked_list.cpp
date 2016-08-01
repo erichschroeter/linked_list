@@ -1,4 +1,6 @@
 #include <assert.h>
+#include <string.h> // NULL
+#include <stdio.h>
 
 #include "linked_list.h"
 

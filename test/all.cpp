@@ -1,4 +1,6 @@
-#include "linked_list.h"
+#include <string.h>
+
+#include <linked_list.h>
 
 #define NODE_COUNT 3
 
